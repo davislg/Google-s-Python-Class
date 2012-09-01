@@ -46,14 +46,6 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"file_history":
-	[
-		"/davis/business/vecc/voip/src/_info.php",
-		"/davis/business/vecc/voip/src/voip.sublime-workspace",
-		"/Users/davis/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/davis/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
-		"/davis/appz/Development/Sublime Text 2/Sublime Text 2.icns"
-	],
 	"find":
 	{
 		"height": 35.0
@@ -136,8 +128,6 @@
 		"selected_items":
 		[
 			[
-				"h",
-				"/davis/business/vecc/voip/src/core/htmlFunctions.php"
 			]
 		],
 		"width": 0.0
