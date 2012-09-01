@@ -46,4 +46,5 @@ print list
 print "code: list[0:2] = 'z'"
 list[0:2] = 'z'
 print list
+print 'Notice that list[0:2] overwrote the 1st 2 elements with a single element z'
 print '----------------------------------------------------'
